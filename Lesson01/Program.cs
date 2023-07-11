@@ -6,5 +6,8 @@ Console.WriteLine("Hello, World!");
     {
         Console.WriteLine("Bu mening birinchi dasturim!");
         Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 }
